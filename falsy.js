@@ -2,7 +2,8 @@ var user=undefined;
 if(user)
 console.log("TRUE");
 else
-console.log("False");
+
+console.log("FFFalse");
 
 var us="2";
 if(2==us)
